@@ -1,0 +1,31 @@
+header{
+	width: 800px;
+	height: 60px;
+	padding: 20px 0;
+	background: #6b35b3;
+
+}
+
+h1{
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	font-family: Arial;
+	text-transform: uppercase;
+}
+
+footer{
+	width: 800px;
+	height: 60px;
+	padding: 20px 0;
+	background: #6b35b3;
+
+}
+
+footer p{
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	font-family: Arial;
+	text-transform: uppercase;
+}
